@@ -1,0 +1,36 @@
+hr {
+    color: #eb6d4a;
+    size: 20;
+}
+
+img {
+    width: 300px;
+}
+
+p {
+    font-weight: lighter;
+}
+
+.bg-name {
+    background-color: #eb6d4a;
+    margin-top: 50px;;
+}
+
+.name {
+    padding: 50px;
+    display: flex;
+    justify-content: center;
+}
+
+.marco{
+    border-color: black;
+}
+
+.fondoOscuro {
+    background-color: #1e1e20;
+}
+
+.fondoNav {
+    background-color: #c7c5c5;
+}
+
